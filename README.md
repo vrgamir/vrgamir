@@ -1,4 +1,7 @@
-- Introduction
-What is the Open Source UI repo?
-- Getting Started
-How do vndors use the Open Source UI repo?
+- Introduction: What is the Open Source UI repo?
+
+  Insert text here
+
+- Getting Started:  How do vendors use the Open Source UI repo?
+
+  Insert text here
